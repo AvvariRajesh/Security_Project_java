@@ -1,0 +1,9 @@
+com\udasecurity\security\Sensor.class
+com\udasecurity\gui\SecurityGUI.class
+com\udasecurity\imageservice\ImageService.class
+com\udasecurity\security\FakeSecurityRepository.class
+com\udasecurity\gui\SecurityGUI$SensorRow.class
+com\udasecurity\security\AlarmStatus.class
+com\udasecurity\security\SecurityService.class
+com\udasecurity\security\ArmingStatus.class
+com\udasecurity\security\SecurityRepository.class
